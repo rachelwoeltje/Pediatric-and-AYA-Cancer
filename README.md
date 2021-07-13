@@ -19,7 +19,7 @@ The dashboard features:
 - Table for project name acronyms 
 - Table for cancer type acronyms 
 
-![image](https://user-images.githubusercontent.com/77589773/125523691-6fcc27b1-04e6-4f71-9508-460ab7594e2f.png)
+![image](https://user-images.githubusercontent.com/77589773/125523799-c5ac89df-bfc4-46d3-9029-3668e3e3e948.png)
 
 Technologies
 To complete this project, I used the following tools:
