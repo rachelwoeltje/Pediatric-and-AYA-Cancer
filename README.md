@@ -21,7 +21,7 @@ The dashboard features:
 
 ![image](https://user-images.githubusercontent.com/77589773/125523799-c5ac89df-bfc4-46d3-9029-3668e3e3e948.png)
 
-Technologies
+## Technologies
 To complete this project, I used the following tools:
 - Excel
 - Tableau
