@@ -6,7 +6,7 @@ Utilizing Tableau to display and analyze children's and young adults cancer type
 
 The main product of this repo is the Tableau dashboard. Interactive dashboard focuses on various projects for certain cancers, different data used to analyze patients with cancer, and methods to find solutions for these projects.
 
-Dashboard link: https://public.tableau.com/app/profile/rachel.woeltje/viz/PediatricGenomicDataInventory-NSS/Dashboard1
+Dashboard link: https://public.tableau.com/app/profile/rachel.woeltje/viz/PediatricGenomicDataInventory/Dashboard1
 
 The dashboard features:
 
